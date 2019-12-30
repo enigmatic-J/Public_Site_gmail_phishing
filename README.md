@@ -5,3 +5,4 @@ This is no local area phishing page. This script allows you to create a gmail ph
 
 this script installs ngrok, A tool that allows you to create a public temporary website.
 this script also downloads a git repo from owner of gmail_phishing(ashanahw)
+
